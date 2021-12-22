@@ -23,7 +23,6 @@ function App() {
       ) : (
         "Init..."
       )}
-      <footer>&copy;{new Date().getFullYear()}Kwitter</footer>
     </>
   );
 }
