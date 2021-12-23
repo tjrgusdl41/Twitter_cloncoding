@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Twitter_cloncoding.git/static/css/main.51bffab4.css",
+    "main.js": "/Twitter_cloncoding.git/static/js/main.01266597.js",
+    "index.html": "/Twitter_cloncoding.git/index.html",
+    "main.51bffab4.css.map": "/Twitter_cloncoding.git/static/css/main.51bffab4.css.map",
+    "main.01266597.js.map": "/Twitter_cloncoding.git/static/js/main.01266597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51bffab4.css",
+    "static/js/main.01266597.js"
+  ]
+}
