@@ -35,7 +35,7 @@ const AuthForm = () => {
   };
   return (
     <>
-      <form onSubmit={onSubmit} className="container">
+      <form onSubmit={onSubmit} className="authform">
         <input
           name="email"
           type="text"
