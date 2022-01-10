@@ -1,7 +1,7 @@
 import Nweet from "components/Nweet";
 import { dbService, storageService } from "fbase";
 import React, { useEffect } from "react";
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { getStorage, ref } from "firebase/storage";
 import NweetFactory from "components/NweetFactory";
